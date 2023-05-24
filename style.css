@@ -1,3 +1,4 @@
+
 body {
     max-width: 800px;
     margin: 0 auto;
@@ -23,4 +24,11 @@ body {
   
   p, li, dd, dt, address {
     line-height: 1.5;
-  }
+  } 
+
+  h1 {
+
+    text-align: center;
+
+    }
+  

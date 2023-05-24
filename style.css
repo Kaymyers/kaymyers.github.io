@@ -51,10 +51,49 @@ body {
     padding:0;
     } 
 
-  img2{
-    text-align:right;
-  }
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+    }
     
+    .topnav {
+      overflow: hidden;
+      background-color: #333;
+    }
+    
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    
+    .topnav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+    
+    .topnav a.active {
+      background-color: #04AA6D;
+      color: white;
+    }
+    </style>
+    </head>
+    <body>
+    
+    <div class="topnav">
+      <a class="active" href="#Future goals">Future goals</a>
+      <a href="#Why Psychology?">Why Psychology?</a>
+      <a href="#What Career Is Right For You">What Career Is Right For You?</a>
+      <a href="#About">About</a>
+    </div>c
+    
+    <div style="padding-left:16px">
+      <h2>Top Navigation Example</h2>
+      <p>Some content..</p>
+    </div>
 
   
   

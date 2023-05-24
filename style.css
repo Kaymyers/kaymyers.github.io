@@ -16,10 +16,17 @@ body {
   box-sizing:border-box;
 }
 
+body {
+  font-family:times new 'Times New Roman', Times, serif
+}
 
+nav{
+  background:#593a62
+  height 80;
+  width: 100
+}
 
-
-
+label.logo
 
 
 

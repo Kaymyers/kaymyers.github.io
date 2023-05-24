@@ -46,19 +46,6 @@ body {
     padding:0;
     } 
   
-   /* Add a gray right border to all list items, except the last item (last-child) */
-li {
-  border-right: 1px solid #bbb;
-}
-
-li:last-child {
-  border-right: none;
-}
-
- 
-  
-  
-  
   
    p,ul,ol,dl,address {
     font-size: 1.1em;

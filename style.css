@@ -53,6 +53,17 @@ body {
       margin: 0;
   }
 
+  .navbar li{
+    display: inline-block;
+  }
+
+  .navbar a{
+    text decoration: none;
+    color:#fff;
+    width:100 
+    display:block;
+  }
+
   
    p,ul,ol,dl,address {
     font-size: 1.1em;

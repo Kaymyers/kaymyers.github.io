@@ -62,7 +62,16 @@ body {
     color:#fff;
     width:100 
     display:block;
-  }
+    padding: 25 20;
+    font-size:15;
+    text-transform: uppercase;
+    font-weight: bold;
+    text align: center;
+ } 
+
+.navbar a:hover{}
+      background:orange
+
 
   
    p,ul,ol,dl,address {

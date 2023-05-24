@@ -46,7 +46,17 @@ body {
     padding:0;
     } 
 
-  
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14 16x;
+      text-decoration: none;
+    }
+    
+    /* Change the link color to #111 (black) on hover */
+    li a:hover {
+      background-color: #111;
   
     
 

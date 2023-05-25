@@ -48,7 +48,9 @@ body {
     font-size: 1.2em;
   }
 
-  h3 
+  h3{
+    text-align:center
+  }
   
    p,ul,ol,dl,address {
     font-size: 1.1em;

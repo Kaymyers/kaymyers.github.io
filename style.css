@@ -47,6 +47,17 @@ body {
   p{
     font-size: 1em;
   }
+
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  img {
+    max-width: 320;
+  }
+  
   
 
   

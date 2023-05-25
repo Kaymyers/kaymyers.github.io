@@ -51,6 +51,10 @@ body {
   h3{
     text-align:center
   }
+
+  h3{
+    font-size:1.3em;
+  }
   
    p,ul,ol,dl,address {
     font-size: 1.1em;

@@ -60,6 +60,11 @@ body {
   align-items: center;
   min-height: 100vh;
 }
+
+.wrapper {
+  margin:150 auto;
+  width: 70%;
+}
   img {
     max-width: 320;
   }

@@ -54,11 +54,15 @@ body {
     box-sizing: border-box;
   }
 
+body {
+  display: flex;
+  justify-content: center;
+}
   img {
     max-width: 320;
   }
   
-  
+
 
   
    p,ul,ol,dl,address {
